@@ -136,12 +136,10 @@ To write a C program to replace all even elements with 'E' in one dimensional ar
 ![Screenshot 2025-04-27 141318](https://github.com/user-attachments/assets/83bb7f3f-5c01-4843-95e2-d7c2d3d91b99)
 
 ## INPUT:
-
 ![Screenshot 2025-04-27 141324](https://github.com/user-attachments/assets/84bed006-9a20-4c2e-9ce6-f14822f6a0e1)
 
 ## Output:
- 
-![Screenshot 2025-04-27 141329](https://github.com/user-attachments/assets/0567ab25-4c21-49d8-a7cf-b38161180f76)
+ ![Screenshot 2025-04-27 141329](https://github.com/user-attachments/assets/0567ab25-4c21-49d8-a7cf-b38161180f76)
 
 ## Result:
 
